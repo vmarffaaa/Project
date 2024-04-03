@@ -1,0 +1,33 @@
+.square{
+    height: 200px;
+    width: 200px;
+    background: navajowhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.txt1{
+    font-family: "Rubik Pixels", system-ui;
+    font-weight: 400;
+}
+.txt2{
+    font-family: "Sedgwick Ave Display", cursive;
+    font-weight: 400;
+}
+.txt3{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+}
+.txt4{
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 400;
+}
+.txt5{
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+}
+.box{
+    font-size: 18px;
+    display: flex;
+    justify-content: space-around;
+}
