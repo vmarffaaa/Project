@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+.section{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    flex-direction: column;
+}
+.first{
+    background: #de89b5;
+    color: #39353a;
+}
+.second{
+    background: #39353a;
+    color: #de89b5;
+}
+.txt{
+    width: 70%;
+    font-size: 18px;
+}
+h2{
+    padding-bottom: 15px;
+    margin-top: 0;
+}
