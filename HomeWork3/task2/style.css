@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    height: 100vh;
+}
+#blue{
+    background: #3a8ce8;
+}
+#red{
+    background: #b42f2f;
+}
+#green{
+    background: #18b718;
+}
+a{
+    font-size: 35px;
+    text-decoration: none;
+    color: black;
+}
+h2, p{
+    width: 60%;
+}
