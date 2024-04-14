@@ -1,0 +1,36 @@
+@media screen and (max-width: 600px) {
+.flex1,.flex2,.flex3{
+    flex-direction: column;
+    text-align: center;
+}
+.banner,.article,.link,.footer{
+    width: 96vw;
+}
+.flex1{
+    height: 160vh;
+}
+.flex2{
+    height: 40vh;
+}
+.flex3{
+    height: 80vh;
+}
+.article{
+    height: 19vh;
+}
+.banner{
+    height: 29vh;
+}
+.link{
+    height: 9vh;
+}
+.footer{
+    height: 9vh;
+}
+.article>p{
+    font-size: 1.5em;
+}
+.banner>p{
+    font-size: 1.6em;
+}
+}

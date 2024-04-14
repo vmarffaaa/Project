@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    font-size: 48px;
+    width: 100vw;
+}
+.flex1{
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.flex2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 66.6vh;
+}
+.flex3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 75vw;
+    height: 66.6vh;
+}
+.flex4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 75vw;
+    height: 33.4vh;
+}
+.A{
+    height: 33.3%;
+}
+.B{
+    width: 100%;
+    height: 50%;
+}
+.F{
+    width: 25vw;
+    height: 100%;
+}
+.C,.D,.E{
+    width: 25vw;
+    height: 100%;
+}
+.A,.B,.C,.D,.E,.F{
+    background-color: #919191;
+    border: #2f2f2f 6px dotted;
+}
+p{
+text-align: center;
+}
+

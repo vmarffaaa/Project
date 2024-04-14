@@ -1,0 +1,24 @@
+@media screen and (max-width: 600px) {
+    body{
+        height: 100vh;
+    }
+    .flex2{
+        flex-direction: column;
+        height: 75vh;
+    }
+    .B,.C{
+        width: 100vw;
+    }
+    .A{
+        height: 25vh;
+    }
+    .B{
+        height: 50vh;
+    }
+    .C{
+        height: 25vh;
+    }
+    .A,.B,.C{
+        font-size: 0.5em;
+    }
+}

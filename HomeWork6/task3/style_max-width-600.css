@@ -1,0 +1,22 @@
+@media screen and (max-width: 600px){
+    .flex2{
+        flex-direction: column;
+    }
+    .flex3{
+        flex-direction: column;
+        width: 100vw;
+        height: 66.6vh;
+    }
+    .flex4{
+        width: 100vw;
+    }
+    .F{
+        width: 100%;
+    }
+    .C,.D,.E{
+        width: 33.3%;
+    }
+    p{
+        font-size: 0.65em;
+    }
+}
